@@ -34,9 +34,7 @@
     "eslint-plugin-react": "latest",
     "eslint-plugin-unicorn": "latest",
     "prettier": "^2.8.8",
-    "standard-version": "^9.5.0"
-  },
-  "devDependencies": {
+    "standard-version": "^9.5.0",
     "eslint": "^8.53.0",
     "eslint-plugin-eslint-comments": "^3.2.0"
   }
