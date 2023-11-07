@@ -18,7 +18,7 @@
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com",
-    "access": "restricted"
+    "access": "public"
   },
   "homepage": "https://github.com/EduBeyond/eslint-config-edubeyond#readme",
   "dependencies": {
