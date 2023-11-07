@@ -31,3 +31,7 @@ Add the following to your `.eslintrc` file:
   "extends": "@edubeyond/eslint-config-edubeyond"
 }
 ```
+
+_end notes_
+
+This package will probably never be published on npm because publishing to npm is too hard.
