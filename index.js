@@ -13,7 +13,7 @@ module.exports = {
   rules: {
     // eslint-comments, because people abuse eslint-disable lol
     "eslint-comments/no-unlimited-disable": "error",
-    "no-restricted-disable": ["error"],
+    "eslint-comments/no-restricted-disable": ["error"],
 
     "max-len": "off", // handled by prettier
 
