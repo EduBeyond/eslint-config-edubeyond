@@ -21,22 +21,26 @@
     "access": "public"
   },
   "homepage": "https://github.com/EduBeyond/eslint-config-edubeyond#readme",
-  "dependencies": {
-    "@types/eslint-plugin-prettier": "^3.1.3",
-    "@typescript-eslint/eslint-plugin": "latest",
-    "@typescript-eslint/parser": "^7.10.0",
-    "eslint-config-next": "latest",
-    "eslint-config-prettier": "^9.1.0",
-    "eslint-config-turbo": "latest",
-    "eslint-plugin-deprecation": "^2.0.0",
-    "eslint-plugin-eslint-comments": "^3.2.0",
-    "eslint-plugin-prettier": "^5.1.3",
-    "eslint-plugin-react": "latest",
-    "eslint-plugin-unicorn": "latest",
-    "prettier": "^3.2.5",
-    "standard-version": "^9.5.0"
-  },
   "peerDependencies": {
     "eslint": "^8"
-  }
+  },
+  "devDependencies": {
+    "@types/eslint-plugin-prettier": "^3.1.3",
+    "@typescript-eslint/eslint-plugin": "^8",
+    "@typescript-eslint/parser": "^8",
+    "eslint": "^8",
+    "typescript": "^5.5.4",
+    "typescript-eslint": "^8.4.0",
+    "eslint-config-next": "^14",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-config-turbo": "^2",
+    "eslint-plugin-deprecation": "^2.0.0",
+    "eslint-plugin-eslint-comments": "^3.2.0",
+    "eslint-plugin-prettier": "^5.2.1",
+    "eslint-plugin-react": "^7",
+    "eslint-plugin-unicorn": "latest",
+    "prettier": "^3",
+    "standard-version": "^9.5.0"
+  },
+  "packageManager": "pnpm@9.9.0+sha512.60c18acd138bff695d339be6ad13f7e936eea6745660d4cc4a776d5247c540d0edee1a563695c183a66eb917ef88f2b4feb1fc25f32a7adcadc7aaf3438e99c1"
 }
