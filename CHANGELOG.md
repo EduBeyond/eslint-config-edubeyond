@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.8](https://github.com/EduBeyond/eslint-config-edubeyond/compare/v1.1.7...v1.1.8) (2024-09-03)
+
+
+### Bug Fixes
+
+* remove reference to @typescript-eslint/ban-types ([a13356e](https://github.com/EduBeyond/eslint-config-edubeyond/commit/a13356e7fe1b9a5c3440846093bfbe1e56a43723))
+
 ### [1.1.7](https://github.com/EduBeyond/eslint-config-edubeyond/compare/v1.1.6...v1.1.7) (2024-09-03)
 
 ### [1.1.6](https://github.com/EduBeyond/eslint-config-edubeyond/compare/v1.1.5...v1.1.6) (2024-09-03)
