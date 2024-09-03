@@ -40,12 +40,9 @@ module.exports = {
         caughtErrorsIgnorePattern: "^_",
       },
     ],
-    "@typescript-eslint/ban-types": [
-      "error",
-      {
-        types: {},
-      },
-    ],
+    "@typescript-eslint/no-empty-object-type": "error",
+    "@typescript-eslint/no-unsafe-function-type": "error",
+    "@typescript-eslint/no-wrapper-object-types": "error",
 
     "unicorn/no-array-for-each": "warn",
     "unicorn/no-null": "off",
